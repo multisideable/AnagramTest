@@ -1,5 +1,16 @@
 [
-  { "theme": "Astronomy", "scramble": "L A X A G Y", "answer": "GALAXY" },
-  { "theme": "Marine Life", "scramble": "S O C P U T O", "answer": "OCTOPUS" },
-  { "theme": "Technology", "scramble": "G I D E T W", "answer": "WIDGET" }
+  { "theme": "Art & Design", "scramble": "T I S A R T", "answer": "ARTIST" },
+  { "theme": "Nature", "scramble": "E L G N U J", "answer": "JUNGLE" },
+  { "theme": "Outer Space", "scramble": "E N T A L P", "answer": "PLANET" },
+  { "theme": "Kitchen", "scramble": "S I T O R A", "answer": "ROASTI" },
+  { "theme": "Weather", "scramble": "D N U T H E R", "answer": "THUNDER" },
+  { "theme": "Music", "scramble": "I N O P A", "answer": "PIANO" },
+  { "theme": "Travel", "scramble": "R O B A R D", "answer": "ABROAD" },
+  { "theme": "Garden", "scramble": "T L E P A", "answer": "PETAL" },
+  { "theme": "Writing", "scramble": "L E P I C N", "answer": "PENCIL" },
+  { "theme": "Architecture", "scramble": "I D G E R B", "answer": "BRIDGE" },
+  { "theme": "Ocean", "scramble": "R O C H A N", "answer": "ANCHOR" },
+  { "theme": "Time", "scramble": "D E C A D E", "answer": "DECADE" },
+  { "theme": "Clothing", "scramble": "K E T C A J", "answer": "JACKET" },
+  { "theme": "Fruit", "scramble": "G E N A R O", "answer": "ORANGE" }
 ]
